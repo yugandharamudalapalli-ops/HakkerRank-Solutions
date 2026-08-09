@@ -39,8 +39,8 @@ Explanation: There is no common prefix among the input strings.
 
 **Language:** Java  
 **Runtime:** 0 ms (beats 100.00%)  
-**Memory:** 43.2 MB (beats 51.27%)  
-**Submitted:** 2026-08-09T06:58:49.876Z  
+**Memory:** 43.3 MB (beats 51.27%)  
+**Submitted:** 2026-08-09T07:01:42.621Z  
 
 ```java
 class Solution {
