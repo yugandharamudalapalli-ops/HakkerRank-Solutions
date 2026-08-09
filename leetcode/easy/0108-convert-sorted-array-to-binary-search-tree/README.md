@@ -38,8 +38,8 @@ Explanation: [1,null,3] and [3,1] are both height-balanced BSTs.
 
 **Language:** Java  
 **Runtime:** 0 ms (beats 100.00%)  
-**Memory:** 44.8 MB (beats 81.18%)  
-**Submitted:** 2026-08-09T07:25:08.282Z  
+**Memory:** 45.2 MB (beats 26.17%)  
+**Submitted:** 2026-08-09T07:26:23.925Z  
 
 ```java
 class Solution {
